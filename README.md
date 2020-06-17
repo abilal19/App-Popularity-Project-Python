@@ -1,2 +1,2 @@
 # App-Popularity-Project-Python
-I looked at the most profitable free english app a company can make on android and iphone
+I looked at the most profitable App Profiles for the App Store and Google Play Markets
